@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://babacosmetics.com.np/sitemap.xml
